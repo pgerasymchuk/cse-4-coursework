@@ -1,0 +1,6 @@
+@CycleShare.Server_HostAddress = http://localhost:5078
+
+GET {{CycleShare.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
